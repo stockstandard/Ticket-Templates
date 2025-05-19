@@ -1,6 +1,6 @@
 
 
-#Background information:
+# Background information:
 
 Any information that would increase the understanding of the issue. If images and/or documents are uploaded to the ticket (which they should), they will be referred to by their name on the ticket’s description so as to avoid confusion when attaching more than one.
 
@@ -8,7 +8,7 @@ Any information that would increase the understanding of the issue. If images an
 
 >>The dropdown menu on the homepage is not functioning as expected. When clicking on the "Products" dropdown in the navigation bar, the menu does not display any options. This issue is affecting both desktop and mobile users.
 
-##Steps to reproduce:
+## Steps to reproduce:
 
 A specific step by step list in order to reproduce the issue. Example:
 
@@ -18,7 +18,7 @@ Navigate to the homepage (https://www.example.com)
 
 Click on the "Products" dropdown in the navigation bar
 
-##Current result:
+## Current result:
 
 Why the ticket is failing. Example:
 
@@ -26,35 +26,33 @@ Example
 
 No options are displayed in the dropdown menu. It remains empty.
 
- Screenshot / video:
-
-Screen recording chrome extension - https://chromewebstore.google.com/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden
+## Screenshot / video:
 
 When taking a screenshot, try to capture entire brower window including the address bar. This will help us to identify the browser you are using.
 
-✅ Expected result:
+## Expected result:
 
-Example
+> Example
 
 The dropdown menu should display a list of product categories.
 
- Additional Information:
+## Additional Information:
 
-Example
+> Example
 
 This issue is consistently reproducible across different user accounts.
 
 Clearing browser cache does not resolve the problem.
 
- URL
+## URL
 
 https://example.com  
 
- Design / UX / UI
+## Design / UX / UI
 
 Add in references / links to the designs that may have been created for this piece of work. If user interactions have not been defined in the designs, please add here (e.g hover state / active state etc)
 
-👾 Tech details:
+## Tech details:
 
 More technical information about how to reproduce the issue.
 
