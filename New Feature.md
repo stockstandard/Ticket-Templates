@@ -12,7 +12,6 @@ Provide a detailed description of the feature you're requesting. Include context
 
 ### Example
 ```
-
 As a user, I should be able to easily upload a profile picture so that other users can easily identify me. This feature will enhance user engagement and personalisation within the platform.
 ```
 
