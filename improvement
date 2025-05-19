@@ -1,0 +1,77 @@
+ℹ️ Background information:
+
+Some customers are eligible for Government Subsidies and they provided  a verbal estimate on the phone with a member of the MBA sales team. The estimate can vary depending on their individual circumstances and when they run through the application process, the amount in the fees and charges
+
+📝Current Functionality:
+
+Provide a detailed description of the feature you're requesting. Include context and explain why it's needed.
+
+The existing user profile page provides basic information such as username, email, and profile picture. However, it lacks insights into the user's activity on the platform, which could provide valuable information to both the user and administrators.
+
+  Proposed Improvement:  
+
+Provide a detailed description of the feature you're requesting. Include context and explain why it's needed.
+
+Enhance the user profile page by adding a new section that displays user activity statistics. This section should include:
+
+The number of posts made by the user.
+
+The number of comments made by the user.
+
+The date of the user's last activity.
+
+A graphical representation of the user's activity over the past month (e.g., a bar chart).
+
+✅ Acceptance Criteria: 
+
+List specific criteria that need to be met for this feature to be considered complete. This helps to define what "done" means for this feature.
+
+Example:
+
+A new section titled "Activity Statistics" is added to the user profile page.
+
+The section displays:
+
+The total number of posts made by the user.
+
+The total number of comments made by the user.
+
+The date of the user's last activity.
+
+A bar chart showing the user's activity over the past month.
+
+The activity statistics update in real-time as users interact with the platform.
+
+The layout and design of the new section are consistent with the existing profile page style.
+
+  Steps to reproduce:
+
+A specific step-by-step list to view the current functionality. Example:
+
+Example
+
+Navigate to a user's profile page.
+
+Observe the absence of detailed user activity statistics.
+
+Implement the proposed improvement.
+
+Verify the new "Activity Statistics" section displays accurate and up-to-date information.
+
+  Expected result: 
+
+Example
+
+The user profile page includes a new section displaying user activity statistics, providing valuable insights and encouraging user engagement.
+
+ URL
+
+https://example.com
+
+ Test Plan
+
+TBC
+
+ Additional Information:
+
+Include any additional information that might be relevant, such as user stories, customer feedback, relevant discussions, Accessibility considerations
