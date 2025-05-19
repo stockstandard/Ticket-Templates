@@ -23,7 +23,7 @@ A specific step by step list in order to reproduce the issue. Example:
 
 Why the ticket is failing.
 
-###Example
+### Example
 ```
 No options are displayed in the dropdown menu. It remains empty.
 ```
