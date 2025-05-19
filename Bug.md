@@ -5,7 +5,7 @@
 Any information that would increase the understanding of the issue. If images and/or documents are uploaded to the ticket (which they should), they will be referred to by their name on the ticket’s description so as to avoid confusion when attaching more than one.
 
 > Example
-> The dropdown menu on the homepage is not functioning as expected. When clicking on the "Products" dropdown in the navigation bar, the menu does not display any options. This issue is affecting both desktop and mobile users.
+>> The dropdown menu on the homepage is not functioning as expected. When clicking on the "Products" dropdown in the navigation bar, the menu does not display any options. This issue is affecting both desktop and mobile users.
 
 ## Steps to reproduce:
 
