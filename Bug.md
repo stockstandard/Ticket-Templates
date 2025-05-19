@@ -13,19 +13,20 @@ The dropdown menu on the homepage is not functioning as expected. When clicking 
 
 A specific step by step list in order to reproduce the issue. Example:
 
-Example
-
-Navigate to the homepage (https://www.example.com)
-
-Click on the "Products" dropdown in the navigation bar
+### Example
+```
+* Navigate to the homepage (https://www.example.com)
+* Click on the "Products" dropdown in the navigation bar
+```
 
 ## Current result:
 
-Why the ticket is failing. Example:
+Why the ticket is failing.
 
-Example
-
+###Example
+```
 No options are displayed in the dropdown menu. It remains empty.
+```
 
 ## Screenshot / video:
 
@@ -33,17 +34,18 @@ When taking a screenshot, try to capture entire brower window including the addr
 
 ## Expected result:
 
-> Example
-
+### Example
+```
 The dropdown menu should display a list of product categories.
+```
 
 ## Additional Information:
 
-> Example
-
-This issue is consistently reproducible across different user accounts.
-
-Clearing browser cache does not resolve the problem.
+### Example
+```
+* This issue is consistently reproducible across different user accounts.
+* Clearing browser cache does not resolve the problem.
+```
 
 ## URL
 
@@ -57,13 +59,9 @@ Add in references / links to the designs that may have been created for this pie
 
 More technical information about how to reproduce the issue.
 
-Device: MacBook Pro
-
-Version: Sierra
-
-Browser: Safari
-
-Screen Reader: VoiceOver OFF
-
-URLs: https://www.theclientswebsite.com/article/my-issue
+* Device: MacBook Pro
+* Version: Sierra
+* Browser: Safari
+* Screen Reader: VoiceOver OFF
+* URLs: https://www.theclientswebsite.com/article/my-issue
 
